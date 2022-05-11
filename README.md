@@ -5,7 +5,7 @@
 
 # ☎️ Contact information
 
-📧 Email address : dheerapat.t@kkumail.com
+📧 dheerapat.t@kkumail.com
 
 🔗 [LinkedIn](https://www.linkedin.com/in/dheerapat-tookkane-809284160/)
 
@@ -17,7 +17,7 @@
 
 ## Laboratory Pharmacist
 
-Faculty of Pharmaceutical Science*, Khon Kaen University – (2020-Current)*
+Faculty of Pharmaceutical Science, Khon Kaen University – (2020-Current)
 
 Pharmacist at Therapeutic Drug Monitoring Service Laboratory
 
