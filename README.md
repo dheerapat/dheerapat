@@ -28,8 +28,16 @@ Pharm.D., Doctor of Pharmacy
 **CSS**  
 **JavaScript**  
 **Responsive Web Design**  
+**Data and Database Management with SQL**  
+**Data Analysis with Spreadsheet/Python**
 
 # Project
 
-[Visit](www.github.com/dheerapat) and take a look at my personal project. Some of them are live here,  
-[Password generator website](https://vanilla-password-generator.netlify.app/)
+[Visit](https://www.github.com/dheerapat) and take a look at my personal project. Some of them are live here,  
+  
+Website/App  
+[Password generator website](https://vanilla-password-generator.netlify.app/)  
+[Personal photo gallery website](https://shutter-releaser.herokuapp.com/)  
+  
+Data Science  
+[Air quality in Bangkok visualization with python](https://colab.research.google.com/drive/1VAX68CNfiXBPkW1HnZM0pu-NUs7IIkXO?usp=sharing)
