@@ -1,74 +1,35 @@
 # Dheerapat Tookkane
 
-> I’m a Thai licensed pharmacist currently working as a laboratory officer at Khon Kaen University. I am also fluent in data analytic tools such as Excel, SQL and Python.
-> 
+> Thai pharmacist who interested in programming.  
+> Ultimate goal is to travel the world with my motocycle and work as a remote programmer.
 
-# ☎️ Contact information
+### contact
 
-📧 dheerapat.t@kkumail.com
+dheerapat.t@kkumail.com  
+********4870
 
-🔗 [LinkedIn](https://www.linkedin.com/in/dheerapat-tookkane-809284160/)
+# Education
 
-🤖 [Github](https://github.com/dheerapat)
+Pharm.D., Doctor of Pharmacy  
+*Khon Kaen University. 2019*
 
+# Certificate
 
+[HTML](https://www.linkedin.com/learning/certificates/e8b06b94e9ab7f30d18724b81c64af619c5392156ff79bc47a2a4970aaf90e64?trk=share_certificate)  
+[CSS](https://www.linkedin.com/learning/certificates/73c959dd2a653508c662d10f77c708bc37476519627078fbf01a65d7cc0b4c7c?trk=share_certificate)  
+[JavaScript](https://www.codecademy.com/profiles/fullStackPy/certificates/705dcb15de0da4dd9d9fc4f3274b430e)  
+[Interactive Web Development](https://www.codecademy.com/profiles/fullStackPy/certificates/36ae898a1d1c8524815305b2d1d2ebab)  
+[Data Analysis with SQL](https://www.codecademy.com/profiles/fullStackPy/certificates/5cafb2d937090210d7df3652)  
+[Web Development with Flask](https://www.codecademy.com/profiles/fullStackPy/certificates/5ee3bf2c187929001393af70)  
 
-# **👩🏻‍💻** Work experience
+# Skill
 
-## Laboratory Pharmacist
+**HTML**  
+**CSS**  
+**JavaScript**  
+**Responsive Web Design**  
 
-Faculty of Pharmaceutical Science, Khon Kaen University – (2020-Current)
+# Project
 
-Pharmacist at Therapeutic Drug Monitoring Service Laboratory
-
-- Perform routine serum drug concentration analysis.
-- Control quality of analysis method.
-- Develop novel drug concentration analysis method.
-
-
-
-# 🛠 Skills
-
-## 💻 Technology
-
-### Excel : Proficient
-
-Perform data analysis with drug concentration level in human/pet blood in daily basis. Proficient in **linear regression analysis** and **pivot table**. Also fluent in statistical function like `AVERAGE()` , `STDEV.S()` , `VLOOKUP()` , `COUNTIF()` , `SUMIF()` and many more.
-
-### SQL : Fluent
-
-Understand concept of relational database and RDBMS tools such as DB Browser. Fluent in query a database with SQL to meet a task requirement. Capable of funnel and churn rate analysis.
-
-### Python : Capable
-
-As a self taught programmer. I am capable of programming a basic-intermediate python program. Solid understand of a basic concept like array, dictionary, loop, control flow, function, class and object-oriented programming.
-
-**Web Development Framework** : Flask
-
-### Web Development : Capable
-
-With a beginner-fluent skill of HTML,CSS and JavaScript, I am also capable of making a static website with frontend-shift in development. I also in progress to learn more about popular JavaScript framework like Vue.js and React to bring my website to another level.
-
-**CSS Library** : Bootstrap, W3.CSS
-
-**JavaScript Framework** : Alpine.js, Handlebar.js
-
-
-
-## 🗣 Languages
-
-### Thai 🇹🇭 : Native speaker
-
-### English 🇬🇧 : Proficient speaker
-
-
-
-# 📚 Education
-
-## Doctor of Pharmacy
-
-2019 • Second Class Honours
-
-Khon Kaen University, Khon Kaen
-
-Thailand
+[Visit](www.github.com/dheerapat) and take a look at my personal project. Some of them are live here,  
+[Password generator website](https://vanilla-password-generator.netlify.app/)
