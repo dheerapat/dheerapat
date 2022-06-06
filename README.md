@@ -38,6 +38,7 @@ Pharm.D., Doctor of Pharmacy
 Website/App  
 [Password generator website](https://vanilla-password-generator.netlify.app/)  
 [Personal photo gallery website](https://shutter-releaser.herokuapp.com/)  
+[Prank funny website](https://are-you-stupid.netlify.app/)
   
 Data Science  
 [Air quality in Bangkok visualization with python](https://colab.research.google.com/drive/1VAX68CNfiXBPkW1HnZM0pu-NUs7IIkXO?usp=sharing)
