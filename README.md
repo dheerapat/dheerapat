@@ -38,7 +38,8 @@ Pharm.D., Doctor of Pharmacy
 Website/App  
 [Password generator website](https://vanilla-password-generator.netlify.app/)  
 [Personal photo gallery website](https://shutter-releaser.herokuapp.com/)  
-[Prank funny website](https://are-you-stupid.netlify.app/)
+[Prank funny website](https://are-you-stupid.netlify.app/)  
+[Price per item calculator](https://price-per-item.netlify.app/)
 
 Personal's Blog (Made by Hugo)  
 [dheerapat's log](https://dheerapat-log.vercel.app/)
