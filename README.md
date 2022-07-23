@@ -1,12 +1,15 @@
 # Dheerapat Tookkane
 
-> Thai pharmacist who interested in programming.  
-> Ultimate goal is to travel the world with my motocycle and work as a remote programmer.
+> Thai pharmacist who interested in programming. 💻 
+> Ultimate goal is to travel the world with my motocycle and work as a remote programmer.🏕
 
 ### contact
 
-dheerapat.t@kkumail.com  
-********4870
+dheerapat.t@kkumail.com
+
+### Setup
+* Ryzen 5 4650G w/ 16 GB Ram Running Window 10 😀
+* Lenovo Thinkbook 14 Intel i3 gen-11 w/ 12 GB ram Running Ubuntu 🐧
 
 # Skill
 
@@ -26,8 +29,8 @@ dheerapat.t@kkumail.com
 
 ### Back-end Framework
 
-* Python
-  * Flask
+* Python 🐍
+  * Flask ♥
   * Django
   * FastAPI
 * Javascripts
@@ -37,8 +40,8 @@ dheerapat.t@kkumail.com
 
 * Node.js
   * 11ty
-* Deno
-  * Lume
+* Deno 🐱‍🐉
+  * Lume 🔥
 
 # Education
 
@@ -64,7 +67,7 @@ Pharm.D., Doctor of Pharmacy
 
 [Flask URL Shortener](https://github.com/dheerapat/flask-url-short)  
 [Django Personal Site](https://github.com/dheerapat/django-personal-portfolio)  
-[Alpine.JS TODO App](https://github.com/dheerapat/alpine-todo)  
+[Alpine.js TODO App](https://github.com/dheerapat/alpine-todo)  
   
   
 ### Website/App (Live on Internet)
