@@ -40,7 +40,7 @@ dheerapat.t@kkumail.com
 
 * Node.js
   * 11ty
-* Deno 🐱‍🐉
+* Deno 🦕
   * Lume 🔥
 
 # Education
