@@ -24,13 +24,12 @@ dheerapat.t@kkumail.com
 ### Front-end Framework
 
 * React
-* Vue.js
 * Alpine.js (micro framework)
 
 ### Back-end Framework
 
 * Python 🐍
-  * Flask ♥
+  * Flask
   * Django
   * FastAPI
 * Javascripts
