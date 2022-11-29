@@ -5,7 +5,8 @@
 
 ### contact
 
-dheerapat.t@kkumail.com
+dheerapat.t@kkumail.com  
+dheerapat38@gmail.com
 
 ### Setup
 * Ryzen 5 4650G w/ 16 GB Ram Running Window 10 😀
