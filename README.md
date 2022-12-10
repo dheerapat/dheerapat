@@ -61,25 +61,12 @@ Pharm.D., Doctor of Pharmacy
 
 # Project
 
-[Visit](https://www.github.com/dheerapat) and take a look at my personal project. Some of them are live here,  
+[Visit](https://www.github.com/dheerapat) and take a look at my personal project. Some of them are,  
   
-### Tutorial Project (Github Repo)
+### Back-end Development
 
-[Flask URL Shortener](https://github.com/dheerapat/flask-url-short)  
-[Django Personal Site](https://github.com/dheerapat/django-personal-portfolio)  
-[Alpine.js TODO App](https://github.com/dheerapat/alpine-todo)  
-  
-  
-### Website/App (Live on Internet)
-
-[Password Generator Website](https://vanilla-password-generator.netlify.app/)  
-[Personal Photo Gallery Website](https://shutter-releaser.herokuapp.com/)  
-[Prank Funny Website](https://are-you-stupid.netlify.app/)  
-[Price-Per-Item Calculator](https://price-per-item.netlify.app/)
-
-### Personal's Blog (Made by Hugo)
-
-[dheerapat's log](https://dheerapat-log.vercel.app/)
+[Express and SQLite API for managing chemical inventory](https://github.com/dheerapat/express-storage-api)  
+[FastAPI backend for machine learning model](https://github.com/dheerapat/fastapi-ml-api-test)
   
 ### Data Science (Python Notebook on Google Collab)
 
