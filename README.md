@@ -17,7 +17,7 @@ dheerapat38@gmail.com
 **HTML**  
 **CSS**  
 **JavaScript**  
-**Python**
+**Python**  
 **Responsive Web Development**  
 **Data and Database Management with SQL**  
 **Data Analysis with Spreadsheet/Python**
