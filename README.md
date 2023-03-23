@@ -35,6 +35,8 @@ dheerapat38@gmail.com
   * FastAPI
 * Javascripts
   * Express
+* C#
+  * .NET Framework
 
 ### JAMstack Web Development
 
