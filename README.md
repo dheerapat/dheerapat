@@ -25,7 +25,8 @@ dheerapat38@gmail.com
 ### Front-end Framework
 
 * React
-* Alpine.js (micro framework)
+* Alpine
+* Svelte
 
 ### Back-end Framework
 
@@ -37,13 +38,6 @@ dheerapat38@gmail.com
   * Express
 * C#
   * .NET Framework
-
-### JAMstack Web Development
-
-* Node.js
-  * 11ty
-* Deno 🦕
-  * Lume 🔥
 
 # Education
 
