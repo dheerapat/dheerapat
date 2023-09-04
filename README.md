@@ -26,22 +26,22 @@ dheerapat38@gmail.com
 
 * React
 * Alpine
-* Svelte
+* Svelte ❤️‍🔥
 
 ### Back-end Framework
 
 * Python 🐍
   * Flask
   * Django
-  * FastAPI
-* Javascripts
+  * FastAPI 🧑🏼‍💻
+* Javascripts/Typescripts
   * Express
 * C#
-  * .NET Framework
+  * .NET
 
 # Education
 
-Pharm.D., Doctor of Pharmacy  
+Pharm.D., Doctor of Pharmacy 💊  
 *Khon Kaen University. 2019*
 
 # Certificate
