@@ -10,7 +10,7 @@ dheerapat38@gmail.com
 
 ### Setup
 * Ryzen 5 4650G w/ 16 GB Ram Running Window 10 😀
-* Lenovo Thinkbook 14 Intel i3 gen-11 w/ 12 GB ram Running Pop!_OS 🐧
+* Lenovo Thinkbook 14 Intel i3 gen-11 w/ 12 GB ram Running RHEL🐧
 
 # Skill
 
