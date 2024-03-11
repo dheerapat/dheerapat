@@ -9,7 +9,7 @@ dheerapat.t@outlook.com
 dheerapat38@gmail.com
 
 ### Setup
-* Lenovo Thinkbook 14 Intel i3 gen-11 w/ 12 GB ram Running Fedora🐧
+* Lenovo Thinkbook 14 Intel i3 11th gen w/ 12 GB ram Running Fedora🐧
 
 # Skill
 
