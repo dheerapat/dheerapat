@@ -9,7 +9,6 @@ dheerapat.t@outlook.com
 dheerapat38@gmail.com
 
 ### Setup
-* Lenovo Thinkbook 14 Intel i3 11th gen w/ 12 GB ram Running Fedora🐧
 * Lenovo Ideapad Slim 5 Ryzen 7 7th gen w/ 16 GB ram Running Windows (WSL)
 
 # Skill
